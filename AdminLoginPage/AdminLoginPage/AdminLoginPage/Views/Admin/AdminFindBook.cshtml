@@ -1,0 +1,68 @@
+﻿@model IEnumerable<AdminLoginPage.Models.AdminAddBook>
+
+@{
+    ViewBag.Title = "AdminFindBook";
+}
+
+<h2>AdminFindBook</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<p>
+    @using (Html.BeginForm("AdminFindBook", "Admin", FormMethod.Get))
+    {
+        <b> Search by</b> @Html.RadioButton("searchby", "Author", true)<b> Author</b>
+        @Html.RadioButton("searchby", "Book_Name") <b> Book_Name</b><br />
+        @Html.TextBox("search") <input type="submit" value=" Search" />
+    }
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().Book_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().price)
+        </th>
+        <th></th>
+    </tr>
+
+    @if (Model.Count() == 0)
+    {
+
+        <tr>
+            <td colspan="5">
+                No record found
+            </td>
+        </tr>
+
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book_Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.price)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                </td>
+            </tr>
+    }
+    }
+
+</table>

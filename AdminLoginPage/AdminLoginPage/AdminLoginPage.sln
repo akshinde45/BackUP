@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminLoginPage", "AdminLoginPage\AdminLoginPage.csproj", "{86EC798F-B113-4B9B-A9E5-41E1FE84030B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EC798F-B113-4B9B-A9E5-41E1FE84030B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EC798F-B113-4B9B-A9E5-41E1FE84030B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EC798F-B113-4B9B-A9E5-41E1FE84030B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EC798F-B113-4B9B-A9E5-41E1FE84030B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D3D7806-534F-4A87-BC1F-4AE29CF9AD01}
+	EndGlobalSection
+EndGlobal

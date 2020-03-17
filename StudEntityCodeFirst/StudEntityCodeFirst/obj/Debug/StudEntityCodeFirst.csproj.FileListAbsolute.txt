@@ -1,0 +1,14 @@
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\bin\Debug\StudEntityCodeFirst.exe.config
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\bin\Debug\StudEntityCodeFirst.exe
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\bin\Debug\StudEntityCodeFirst.pdb
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\obj\Debug\StudEntityCodeFirst.csprojAssemblyReference.cache
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\obj\Debug\StudEntityCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\obj\Debug\StudEntityCodeFirst.csproj.CopyComplete
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\obj\Debug\StudEntityCodeFirst.exe
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\obj\Debug\StudEntityCodeFirst.pdb
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\obj\Debug\StudEntityCodeFirst.Migrations.CreateContext.resources
+C:\Users\pyr\source\repos\StudEntityCodeFirst\StudEntityCodeFirst\obj\Debug\StudEntityCodeFirst.csproj.GenerateResource.cache

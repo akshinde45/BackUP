@@ -1,0 +1,23 @@
+﻿@model AdminLoginPage.Models.AdminAddBook
+
+@{
+    ViewBag.Title = "AddBook";
+}
+
+<h2>AddBook</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+@using (Html.BeginForm())
+{
+
+
+    @:Book ID:  @Html.EditorFor(model => model.id)
+    @:Book Name: @Html.EditorFor(model => model.Book_Name)
+    @:Book Author: @Html.EditorFor(model => model.author)
+    @:Book Price: @Html.EditorFor(model => model.price)
+    <input type="submit" value="Create" class="btn btn-success" />
+}

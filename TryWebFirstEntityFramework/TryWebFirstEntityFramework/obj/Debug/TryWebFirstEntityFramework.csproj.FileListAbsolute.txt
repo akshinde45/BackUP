@@ -1,0 +1,14 @@
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\bin\Debug\TryWebFirstEntityFramework.exe.config
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\bin\Debug\TryWebFirstEntityFramework.exe
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\bin\Debug\TryWebFirstEntityFramework.pdb
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\obj\Debug\TryWebFirstEntityFramework.csprojAssemblyReference.cache
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\obj\Debug\TryWebFirstEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\obj\Debug\TryWebFirstEntityFramework.csproj.CopyComplete
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\obj\Debug\TryWebFirstEntityFramework.exe
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\obj\Debug\TryWebFirstEntityFramework.pdb
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\obj\Debug\TryWebFirstEntityFramework.Migrations.EmpDepartContext.resources
+C:\Users\pyr\source\repos\TryWebFirstEntityFramework\TryWebFirstEntityFramework\obj\Debug\TryWebFirstEntityFramework.csproj.GenerateResource.cache

@@ -1,0 +1,21 @@
+﻿@model EntityPractMVC.Models.Employee
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create New Database</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+     @:Employee ID:  @Html.EditorFor(model => model.Eid)
+    @:Employee Name: @Html.EditorFor(model => model.Ename)
+    @:Employee Designation: @Html.EditorFor(model => model.Designation)
+    <input type="submit" value="Create" class="btn btn-success" />
+}
+
+
+
+

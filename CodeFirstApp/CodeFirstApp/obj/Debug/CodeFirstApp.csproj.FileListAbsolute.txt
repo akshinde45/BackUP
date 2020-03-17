@@ -1,0 +1,14 @@
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.exe.config
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.exe
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\bin\Debug\CodeFirstApp.pdb
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csprojAssemblyReference.cache
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.CopyComplete
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.exe
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.pdb
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.Migrations.udatemigration.resources
+C:\Users\pyr\source\repos\CodeFirstApp\CodeFirstApp\obj\Debug\CodeFirstApp.csproj.GenerateResource.cache

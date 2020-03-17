@@ -1,0 +1,42 @@
+﻿@model IEnumerable<SecondPractMVC.Models.Employee>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@Html.DropDownList("StudentGender",
+                    new SelectList(Enum.GetValues(typeof(Gender))),
+                    "Select Gender",
+                    new { @class = "form-control" })
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyEdit</title>
+</head>
+<body>
+    <div>
+
+        <table class="table">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Contact</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td> @item.Eid</td>
+                    <td>@item.EName</td>
+                    <td>@item.Econtact</td>
+                </tr>
+
+            }
+
+        </table>
+
+    </div>
+</body>
+</html>

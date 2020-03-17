@@ -1,0 +1,58 @@
+﻿@model  AdminLoginPage.Models.AdminLogin
+
+@{
+    ViewBag.Title = "AdminPage";
+    Layout = null;
+}
+
+<h2>AdminPage</h2>
+
+@using (Html.BeginForm())
+{
+    @*@Html.AntiForgeryToken()
+
+         @:UserName:  @Html.EditorFor(model => model.username)
+         @:Password:  @Html.EditorFor(model => model.password)
+        <label> @Html.DisplayFor(model => model.LoginErrorMessage)</label>
+
+        <input type="submit" value="Create" class="btn btn-success" />
+        <br />*@
+
+
+
+    <html>
+    <head>
+        <link rel="stylesheet" href="~/Content/css/login.css">
+        <title>
+            Visitor Login
+        </title>
+    </head>
+    <body>
+        <ul>
+            <li><a><a href="index.html">HOME</a></a></li>
+        </ul>
+
+        <div class="loginbox">
+            <img src="~/Content/assets/img/logo/log.png" class="log">
+            <h1> LIBRARAY :   VISITOR LOGIN</h1>
+            <form>
+                <p id="username">USERNAME </p>
+                @*@Html.EditorFor(model => model.username, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Your Username...!!!" } })*@
+                <input type="text" id="username" name="username" placeholder="enter your username">
+                <p> PASSWORD</p>
+                <input type="password" name="password" placeholder="enter your password" id="password">
+                <input type="submit" name="" value="LOGIN" >
+
+                <br>
+                <a href="forget.html">forgot password</a>
+                <br>
+                <a href="new.html">create a new account</a>
+
+               
+    </body>
+</html>
+
+}
+
+
+

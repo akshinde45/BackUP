@@ -1,0 +1,7 @@
+c:\users\pyr\source\repos\ExerciseTry\ExerciseTry\bin\Debug\ExerciseTry.exe.config
+c:\users\pyr\source\repos\ExerciseTry\ExerciseTry\bin\Debug\ExerciseTry.exe
+c:\users\pyr\source\repos\ExerciseTry\ExerciseTry\bin\Debug\ExerciseTry.pdb
+c:\users\pyr\source\repos\ExerciseTry\ExerciseTry\obj\Debug\ExerciseTry.csprojResolveAssemblyReference.cache
+c:\users\pyr\source\repos\ExerciseTry\ExerciseTry\obj\Debug\ExerciseTry.csproj.CoreCompileInputs.cache
+c:\users\pyr\source\repos\ExerciseTry\ExerciseTry\obj\Debug\ExerciseTry.exe
+c:\users\pyr\source\repos\ExerciseTry\ExerciseTry\obj\Debug\ExerciseTry.pdb
